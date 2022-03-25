@@ -21,6 +21,7 @@ body {
   background: url(./images/bg-desktop.svg) #674baf;
   height: 100vh;
   font-family: 'Poppins', sans-serif;
+  color: #fff;
 }
 .container {
   width: 100%;
