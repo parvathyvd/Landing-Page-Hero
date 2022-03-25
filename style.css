@@ -88,6 +88,9 @@ p{
     gap: 2rem;
     margin-bottom: 2rem;
 }
+.social-media a{
+    color: #fff;
+}
 .insta, .twitter,.fb{
     display: flex;
     justify-content: center;
@@ -102,12 +105,10 @@ p{
 }
 .fb:hover,.twitter:hover, .insta:hover,
 .fb:active,.twitter:active, .insta:active {
-    color: hsl(300, 69%, 71%) !important;
+    color: hsl(300, 69%, 71%);
     border: 1px solid hsl(300, 69%, 71%);
 }
-a{
-    color: rgb(19, 5, 58) !important
-}
+
 footer{
     display: flex;
     justify-content: center;
