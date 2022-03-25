@@ -8,7 +8,6 @@
   margin: 0;
   box-sizing: border-box;
   text-decoration: none;
-  color: #fff;
 }
 
 html {
@@ -98,6 +97,7 @@ p{
     border-radius: 50%;
     border: 1px solid #fff;
     cursor: pointer;
+    color: #fff;
 }
 .fb:hover,.twitter:hover, .insta:hover,
 .fb:active,.twitter:active, .insta:active {
